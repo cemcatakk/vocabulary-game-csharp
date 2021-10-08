@@ -1,0 +1,10 @@
+C:\Users\x\source\repos\VocabularyGame\LoginForm\bin\Debug\LoginForm.exe.config
+C:\Users\x\source\repos\VocabularyGame\LoginForm\bin\Debug\LoginForm.exe
+C:\Users\x\source\repos\VocabularyGame\LoginForm\bin\Debug\LoginForm.pdb
+C:\Users\x\source\repos\VocabularyGame\LoginForm\obj\Debug\LoginForm.csprojAssemblyReference.cache
+C:\Users\x\source\repos\VocabularyGame\LoginForm\obj\Debug\LoginForm.formLogin.resources
+C:\Users\x\source\repos\VocabularyGame\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+C:\Users\x\source\repos\VocabularyGame\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.cache
+C:\Users\x\source\repos\VocabularyGame\LoginForm\obj\Debug\LoginForm.csproj.CoreCompileInputs.cache
+C:\Users\x\source\repos\VocabularyGame\LoginForm\obj\Debug\LoginForm.exe
+C:\Users\x\source\repos\VocabularyGame\LoginForm\obj\Debug\LoginForm.pdb

@@ -1,0 +1,25 @@
+C:\Users\x\source\repos\VocabularyGame\VocabularyGameForm\bin\Debug\VocabularyGameForm.exe.config
+C:\Users\x\source\repos\VocabularyGame\VocabularyGameForm\bin\Debug\VocabularyGameForm.exe
+C:\Users\x\source\repos\VocabularyGame\VocabularyGameForm\bin\Debug\VocabularyGameForm.pdb
+C:\Users\x\source\repos\VocabularyGame\VocabularyGameForm\obj\Debug\VocabularyGameForm.csprojAssemblyReference.cache
+C:\Users\x\source\repos\VocabularyGame\VocabularyGameForm\obj\Debug\VocabularyGameForm.Properties.Resources.resources
+C:\Users\x\source\repos\VocabularyGame\VocabularyGameForm\obj\Debug\VocabularyGameForm.csproj.GenerateResource.cache
+C:\Users\x\source\repos\VocabularyGame\VocabularyGameForm\obj\Debug\VocabularyGameForm.csproj.CoreCompileInputs.cache
+C:\Users\x\source\repos\VocabularyGame\VocabularyGameForm\obj\Debug\VocabularyGameForm.exe
+C:\Users\x\source\repos\VocabularyGame\VocabularyGameForm\obj\Debug\VocabularyGameForm.pdb
+C:\Users\x\source\repos\VocabularyGame\VocabularyGameForm\obj\Debug\VocabularyGameForm.formAnasayfa.resources
+C:\Users\x\source\repos\VocabularyGame\VocabularyGameForm\obj\Debug\VocabularyGameForm.Girisform.resources
+C:\Users\Cem\Desktop\VocabularyGame (2)\VocabularyGame\VocabularyGameForm\bin\Debug\VocabularyGameForm.exe.config
+C:\Users\Cem\Desktop\VocabularyGame (2)\VocabularyGame\VocabularyGameForm\bin\Debug\VocabularyGameForm.exe
+C:\Users\Cem\Desktop\VocabularyGame (2)\VocabularyGame\VocabularyGameForm\bin\Debug\VocabularyGameForm.pdb
+C:\Users\Cem\Desktop\VocabularyGame (2)\VocabularyGame\VocabularyGameForm\obj\Debug\VocabularyGameForm.csprojAssemblyReference.cache
+C:\Users\Cem\Desktop\VocabularyGame (2)\VocabularyGame\VocabularyGameForm\obj\Debug\VocabularyGameForm.formAnasayfa.resources
+C:\Users\Cem\Desktop\VocabularyGame (2)\VocabularyGame\VocabularyGameForm\obj\Debug\VocabularyGameForm.Girisform.resources
+C:\Users\Cem\Desktop\VocabularyGame (2)\VocabularyGame\VocabularyGameForm\obj\Debug\VocabularyGameForm.Properties.Resources.resources
+C:\Users\Cem\Desktop\VocabularyGame (2)\VocabularyGame\VocabularyGameForm\obj\Debug\VocabularyGameForm.csproj.GenerateResource.cache
+C:\Users\Cem\Desktop\VocabularyGame (2)\VocabularyGame\VocabularyGameForm\obj\Debug\VocabularyGameForm.csproj.CoreCompileInputs.cache
+C:\Users\Cem\Desktop\VocabularyGame (2)\VocabularyGame\VocabularyGameForm\obj\Debug\VocabularyGameForm.exe
+C:\Users\Cem\Desktop\VocabularyGame (2)\VocabularyGame\VocabularyGameForm\obj\Debug\VocabularyGameForm.pdb
+C:\Users\Cem\Desktop\VocabularyGame (2)\VocabularyGame\VocabularyGameForm\obj\Debug\VocabularyGameForm.FormSoruEkle.resources
+C:\Users\Cem\Desktop\VocabularyGame (2)\VocabularyGame\VocabularyGameForm\bin\Debug\VocabularyGame.mdf
+C:\Users\Cem\Desktop\VocabularyGame (2)\VocabularyGame\VocabularyGameForm\bin\Debug\VocabularyGame_log.ldf
